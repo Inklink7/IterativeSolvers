@@ -64,5 +64,5 @@ contain different symmetric positive definite matrices to test the solvers.
 - **Execution:** Command-line interface, with input from `.mtx` files and results printed to standard output.
 
 ---
-**Author:** _Marcaccio Riccardo, Broccoletti Anrea_  
+**Author:** _Marcaccio Riccardo, Broccoletti Andrea_  
 **Repository:** _[GitHub Repository URL](https://github.com/Inklink7/IterativeSolvers)_
