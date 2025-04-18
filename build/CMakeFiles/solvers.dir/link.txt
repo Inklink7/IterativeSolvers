@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/solvers.dir/main.cpp.o CMakeFiles/solvers.dir/src/JacobiSolver.cpp.o CMakeFiles/solvers.dir/src/GaussSeidelSolver.cpp.o CMakeFiles/solvers.dir/src/SolverTest.cpp.o -o solvers

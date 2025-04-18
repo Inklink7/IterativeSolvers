@@ -1,0 +1,3 @@
+/home/andrea/Documenti/JacobiGaussSeidelSolver_WithEigen/build/CMakeFiles/solvers.dir
+/home/andrea/Documenti/JacobiGaussSeidelSolver_WithEigen/build/CMakeFiles/edit_cache.dir
+/home/andrea/Documenti/JacobiGaussSeidelSolver_WithEigen/build/CMakeFiles/rebuild_cache.dir
